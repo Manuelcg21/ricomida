@@ -1,0 +1,77 @@
+
+body {
+    font-family: "Cabin", sans-serif;
+    color: #373A3C
+}
+
+.ricomida {
+    font-family: "Lobster", cursive;
+}
+
+.bg-coral {
+    background-color: #dc3545;
+}
+
+.border-grey {
+    border-color: red;
+}
+
+.parrafos {
+    font-size: 16pt;
+}
+
+.parrafoCard {
+    font-size: 13pt;
+}
+
+.paddingextra {
+    padding-top: 7rem;
+    padding-bottom: 6rem;
+}
+
+.navbar-brand {
+    color: white;
+    font-family: "Lobster", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 2rem;
+}
+
+header .navbar ahover{
+    color: rgb(225, 236, 125);
+    }
+
+#fuente-logo {
+    color: white;
+    font-family: "Lobster", sans-serif !important;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 2rem;
+}
+/*CONFIGURACIÓN DE ARTICLE*/
+.linea-horiz {
+    margin: 3rem;
+    font-size: 2rem;
+    padding-bottom: 2rem;
+    border-bottom: 0.1rem solid black;
+}
+article h5{
+    margin: 1rem 0 0 3rem;
+}
+
+.cuatro-fotos img{
+    width: 15rem;
+}
+
+.botones{
+    display: flex;
+    justify-content: left;
+    align-items: center;
+    margin-left: 3rem;
+}
+
+hr{
+    height: 5px;
+    color: black;
+    opacity: 1;
+}
